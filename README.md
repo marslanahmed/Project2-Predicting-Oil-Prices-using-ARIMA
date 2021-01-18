@@ -1,2 +1,2 @@
-# Project2_Predicting_Oil_Prices_ARIMA
-Machine learning algorithm applied to predict future oil prices
+# Project2: Predicting pil prices using ARIMA
+Machine learning algorithm applied to predict future oil prices.
